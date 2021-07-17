@@ -1,0 +1,26 @@
+{
+  "name": "agora-sdk-experimentation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevin51jiang/agora-sdk-experimentation.git"
+  },
+  "author": "Kevin Jiang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kevin51jiang/agora-sdk-experimentation/issues"
+  },
+  "homepage": "https://github.com/kevin51jiang/agora-sdk-experimentation#readme",
+  "dependencies": {
+    "agora-rtc-sdk": "^2.5.0",
+    "hark": "^1.2.3",
+    "mediastream-gain": "^1.0.1",
+    "net-ping": "^1.2.3",
+    "peaks.js": "^0.9.13"
+  }
+}
